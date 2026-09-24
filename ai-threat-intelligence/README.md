@@ -53,11 +53,6 @@ The prototype currently demonstrates:
 * 🧭 User-friendly navigation
 * 🎨 Modern UI/UX
 * ⚡ Interactive frontend components
-* 📊 [Add your major feature here]
-* 🔐 [Add authentication/security feature if applicable]
-* 🤖 [Add AI-related feature if applicable]
-* 📍 [Add location/map feature if applicable]
-* 📄 [Add reporting/document feature if applicable]
 
 > **Note:** Some features may be implemented as prototype/mock functionality and may require backend services, APIs, databases, or additional development for production deployment.
 
